@@ -17,6 +17,8 @@ To install the project, you need to follow these steps:
 5. Upload the project files to your server.
 6. Launch the project by visiting the URL where you uploaded the files.
 
+<img src="https://i.ibb.co/DG0Fhq0/20230422-164433.jpg" alt="preview" width="100%"/>
+
 ## 🌟 Features
 
 The Code Helper blog project comes with the following features:
